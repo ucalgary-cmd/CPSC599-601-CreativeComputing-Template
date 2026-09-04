@@ -1,0 +1,31 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Individual Pitch"
+date: 2026-09-04
+---
+
+# Contents
+
+- What is your background?
+- What creative computing aspects drive you individually?
+- What kind of project you'd like to collaborate on later in a group?
+
+# Background
+
+1 slide with suggested content:
+
+- Degree and current year...
+- Current major...
+- Past degrees...
+- ...
+
+# My Approach to Creative Computing
+
+1+ slide with your general (research) interests related to creative computing...
+
+# Project Idea(s)
+
+1+ slide per idea with suggested content:
+
+- Description of creative artifact: words, sketches, related media content...
+- Amount of team members and related skills needed...

@@ -1,0 +1,22 @@
+title: CPSC 599+601 Creative Computing
+author: 
+  - name: Your Name <br/> ![](images/portraits/DefaultProfile.png){.portrait}
+    affiliation: 
+        - name: "![](images/logos/Logo_Horz_Colour.png){.logo}" # University of Calgary
+          url: https://www.ucalgary.ca
+    url: https://github.com/ucalgary-cmd/CPSC599-601-CreativeComputing
+url: https://github.com/ucalgary-cmd/CPSC599-601-CreativeComputing
+license: "CC BY-NC-SA"
+project:
+  output-dir: .
+  render:
+    - "*.qmd"
+  post-render:
+    - scripts/merge-files.py
+format:
+  revealjs:
+    slide-number: c/t
+    logo: images/logos/CMD-green.svg
+    incremental: true   
+    theme: [white, custom.scss]
+    axe: false
