@@ -1,6 +1,6 @@
-# CPSC 599+601 Creative Computing: Template (Individual)
+# CPSC 599+601 Creative Computing: Template
 
-https://github.com/ucalgary-cmd/CPSC599-601-CreativeComputing-Template-Individual
+https://github.com/ucalgary-cmd/CPSC599-601-CreativeComputing-Template
 
 ## Author
 
