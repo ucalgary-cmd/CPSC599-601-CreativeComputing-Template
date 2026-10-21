@@ -1,0 +1,37 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Project Pitch"
+date: 2026-10-21
+---
+
+# Contents
+
+- Your idea.
+- Your plan and steps.
+- Your team (1-4 members).
+
+<!-- Note: feel free to permute plan and team! -->
+
+# Idea
+
+1+ slide with suggested content:
+
+- Description of creative artifact: words, sketches, related media content...
+- Clarification of potential relation to your research projects.
+
+# Plan
+
+1+ slide with suggested content:
+
+- Steps required to create your interactive artifact.
+- Description of interaction modalities you will implement.
+
+# Team
+
+1+ slide with suggested content:
+
+- Team members identity and assignment to related steps/tasks.
+- Clarification of potential third-party help, e.g.:
+  - perspectives for AI usage, 
+  - (if research project) collaboration with undergraduate students from your lab, 
+  - ...
