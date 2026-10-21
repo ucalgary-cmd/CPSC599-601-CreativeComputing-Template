@@ -1,6 +1,6 @@
 ---
 # Extends metadata from _quarto.yml
-subtitle: "Individual Repository"
+subtitle: "Contributions"
 date: 2026-09-04
 ---
 
